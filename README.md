@@ -6,8 +6,8 @@
 - Quantum Computing through IBM QPUs & Qiskit ecosystem
 
 👯 **I’m looking to collaborate on**
-- Projects on Quantum-Based data analytics techniques
-- Research Paper on Integration of Quantum Computing with Computer Vision (QCV)
+- Projects on quantum-based data analytics techniques
+- Research Paper on Quantum Computer Vision (QCV) and MATLAB applications
 
 ⚡ **Fun fact**
 - I am an independent Photographer & Filmmaker
