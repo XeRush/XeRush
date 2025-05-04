@@ -3,11 +3,24 @@
  - Leveraging hardware based QML & QDL for the classical inputs
 
 🌱 **I’m currently learning**
-- Quantum Computing through IBM QPUs & Qiskit ecosystem
+- Quantum Computing fundamentals
+- Circuit modelling with result optimizations
+- Quantum Machine Learning and QNNs
+
+⚙️ **Current TechStack and Workflows**
+- Circuit Building: PennyLane, Strawberry Fields, Google Cirq (hardware specialised or cloud-based running)
+- Cloud-based integration: Strawberry Fields, AWS Braket
+- Services: AWS Braket, Xanadu Official Cloud
+- QML & Intelligent Systems: PennyLane, TensorFlow
+- Equation Solvers: SciPy
+- Classical Data: Pandas, Seaborn, NumPy
+- Visualisations: Matplotlib, Seaborn
+- Classical ML/DL: Scikit-learn, Tensorflow, keras, PyTorch
+- Classical Gradient boost: XGBoost
 
 👯 **I’m looking to collaborate on**
-- Projects on quantum-based data analytics techniques
-- Research Paper on Quantum Computer Vision (QCV) and MATLAB applications
+- Projects on quantum data encoding and data plane transforms
+- Research Paper on Quantum Reinforcement Learning and PennyLane TensorFlow workflow
 
 ⚡ **Fun fact**
 - I am an independent Photographer & Filmmaker
